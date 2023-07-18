@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "assignment2.ConfigProperties",
+      "name": "sensor",
+      "type": "assignment2.ConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "assignment2.ConfigProperties",
+      "name": "sensor.sensor-id",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
